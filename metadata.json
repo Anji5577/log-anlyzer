@@ -1,0 +1,5 @@
+{
+  "name": "AI Log Analyzer",
+  "description": "An intelligent log analysis tool that uses deep learning to identify, categorize, and provide recommendations for system log entries. Paste your logs to receive an instant, in-depth analysis.",
+  "requestFramePermissions": []
+}
